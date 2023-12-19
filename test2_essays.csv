@@ -1,0 +1,10 @@
+id,prompt_id,text
+0000aaaa,2,Aaa bbb ccc.
+1111bbbb,3,Bbb ccc ddd.
+2222cccc,4,CCC ddd eee.
+1,5,"Develop and Enforce Policies: Create comprehensive security policies and enforce them consistently 
+"
+2,6,"Implement Automated Threat Response: Introduce automated threat response mechanisms to address security incidents in real-time. 
+"
+3,7,"The paper discusses the needs and motivations for such a concept as well as its experiments and challenges. It also approaches the importance of implementing such a technology within IT networks and enterprises. 
+"
